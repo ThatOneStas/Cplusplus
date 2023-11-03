@@ -1,0 +1,7 @@
+﻿  AudioPlayer.cpp
+  ConsoleApplication3.cpp
+C:\Users\student\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\student\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(55,17): warning C4101: 'video': unreferenced local variable
+C:\Users\student\source\repos\ConsoleApplication3\ConsoleApplication3.cpp(56,17): warning C4101: 'media': unreferenced local variable
+  Generating Code...
+  ConsoleApplication3.vcxproj -> C:\Users\student\source\repos\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
